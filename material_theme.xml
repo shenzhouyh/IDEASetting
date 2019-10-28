@@ -1,13 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isHighContrast" value="true" />
-    <option name="isWizardShown" value="true" />
+    <option name="version" value="2.9.6.4" />
+    <option name="selectedTheme" value="LIGHTER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="2979ff" />
     <option name="tabOpacity" value="46" />
     <option name="settingsSelectedTab" value="5" />
-    <option name="accentColor" value="2979ff" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="LIGHTER" />
     <option name="userId" value="3174c787:16cfbb0b4a0:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
