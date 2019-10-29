@@ -6,5 +6,10 @@
         <option name="separatorBeforeDigit" value="false" />
       </CaseSwitchingSettings>
     </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="zh_CN" />
+      </SortSettings>
+    </option>
   </component>
 </application>
