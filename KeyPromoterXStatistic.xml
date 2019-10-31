@@ -214,7 +214,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>136</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -278,7 +278,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'maven-be'">
