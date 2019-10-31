@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>53</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tomcat8-small'">
@@ -73,12 +73,20 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'tomcat8-task'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F3'</ShortCut>
+          <Description>Debug with JRebel 'tomcat8-task'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>229</Count>
+          <Count>238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -126,7 +134,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>69</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -142,7 +150,7 @@
           <IdeaActionID>TailMyBatisLog</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
           <Description>MyBatis Log Plugin</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -185,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'tomcat8-task'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'tomcat8-task'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restart">
         <Item>
           <IdeaActionID>IDEARestart</IdeaActionID>
@@ -198,7 +214,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>114</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -254,7 +270,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>79</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'maven-be'">
@@ -289,12 +305,20 @@
           <Count>37</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'tomcat8-task'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F2'</ShortCut>
+          <Description>Stop 'tomcat8-task'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -326,7 +350,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -358,7 +382,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>47</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
