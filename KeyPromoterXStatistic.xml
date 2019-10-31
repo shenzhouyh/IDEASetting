@@ -249,6 +249,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'hello.lua'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'hello.lua'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Set Active Changelist">
         <Item>
           <IdeaActionID>ChangesView.SetDefault</IdeaActionID>
