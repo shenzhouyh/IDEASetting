@@ -70,7 +70,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F3'</ShortCut>
           <Description>Debug with JRebel 'Application'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'DemoApplication'">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>308</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -222,7 +222,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -230,7 +230,7 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'tomcat8-task'">
@@ -270,7 +270,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -345,6 +345,14 @@
           <Count>156</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Application'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F2'</ShortCut>
+          <Description>Stop 'Application'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DemoApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -406,7 +414,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
