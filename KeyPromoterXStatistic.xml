@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>67</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -273,6 +273,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DemoApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DemoApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'RedisGenIdsUti....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -318,7 +326,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -358,7 +366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tomcat8-be'</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat8-small'">
