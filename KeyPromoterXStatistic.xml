@@ -102,7 +102,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F3'</ShortCut>
           <Description>Debug with JRebel 'tomcat8-task'</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>359</Count>
+          <Count>360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -270,7 +270,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>171</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -358,7 +358,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>208</Count>
+          <Count>227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -422,7 +422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F2'</ShortCut>
           <Description>Stop 'tomcat8-task'</Description>
-          <Count>25</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
