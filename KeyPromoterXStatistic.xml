@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>371</Count>
+          <Count>372</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
