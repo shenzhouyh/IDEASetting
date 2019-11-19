@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>485</Count>
+          <Count>487</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -353,6 +353,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'Ctrl+S'</ShortCut>
+          <Description>Save All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Set Active Changelist">
         <Item>
           <IdeaActionID>ChangesView.SetDefault</IdeaActionID>
@@ -374,7 +382,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
