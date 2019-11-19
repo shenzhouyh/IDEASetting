@@ -366,7 +366,7 @@
           <IdeaActionID>ChangesView.SetDefault</IdeaActionID>
           <ShortCut>'Ctrl+空格'</ShortCut>
           <Description>Set Active Changelist</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>88</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
