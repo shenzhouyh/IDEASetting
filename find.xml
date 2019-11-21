@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\aipc-be\src\main\java\com\bny\market\union\discount\service\DiscountService.java [aipc-be]'" />
+    <option name="defaultScopeName" value="File '...\aipc-be\src\main\java\com\bny\market\union\discount\service\DiscountService.java [aipc-be]'" />
+    <option name="SEARCH_SCOPE" value="File '...\aipc-be\src\main\java\com\bny\market\union\discount\service\DiscountService.java [aipc-be]'" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
