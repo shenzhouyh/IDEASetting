@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>616</Count>
+          <Count>617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -207,6 +207,14 @@
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Move to Another Changelist...</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="MyBatis Log Plugin">
