@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>697</Count>
+          <Count>701</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -143,6 +143,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Desktop Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoDesktop</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Desktop Directory</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -182,7 +190,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -198,7 +206,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>281</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -270,6 +278,14 @@
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+T'</ShortCut>
           <Description>Refactor This...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+L'</ShortCut>
+          <Description>Reformat Code</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -414,7 +430,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Shelve Silently">
