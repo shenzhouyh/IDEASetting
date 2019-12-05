@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>118</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DemoApplication'">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>729</Count>
+          <Count>730</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -206,7 +206,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>338</Count>
+          <Count>339</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
