@@ -206,7 +206,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>390</Count>
+          <Count>391</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -254,7 +254,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'Alt+Q'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
