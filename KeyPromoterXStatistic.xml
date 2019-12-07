@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>812</Count>
+          <Count>813</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -182,7 +182,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Generate...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -206,7 +206,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>396</Count>
+          <Count>397</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -543,6 +543,14 @@
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Surround With...">
+        <Item>
+          <IdeaActionID>SurroundWith</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+T'</ShortCut>
+          <Description>Surround With...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
