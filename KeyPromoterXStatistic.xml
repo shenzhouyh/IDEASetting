@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>932</Count>
+          <Count>937</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -230,7 +230,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>538</Count>
+          <Count>546</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -614,7 +614,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
@@ -630,7 +630,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
