@@ -230,7 +230,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>589</Count>
+          <Count>592</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
