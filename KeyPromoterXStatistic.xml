@@ -230,7 +230,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>588</Count>
+          <Count>589</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -358,7 +358,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>322</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
