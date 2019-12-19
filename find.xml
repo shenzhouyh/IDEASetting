@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\aipc-small-api\src\main\java\cn\buyforyou\aipc\small\api\service\staff\BusinessService.java [aipc-small-api]'" />
-    <option name="defaultScopeName" value="File '...\aipc-small-api\src\main\java\cn\buyforyou\aipc\small\api\service\staff\BusinessService.java [aipc-small-api]'" />
-    <option name="SEARCH_SCOPE" value="File '...\aipc-small-api\src\main\java\cn\buyforyou\aipc\small\api\service\staff\BusinessService.java [aipc-small-api]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
