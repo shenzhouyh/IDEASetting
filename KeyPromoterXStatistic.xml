@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1184</Count>
+          <Count>1186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -262,7 +262,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>737</Count>
+          <Count>740</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -398,7 +398,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>394</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -654,7 +654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>181</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
