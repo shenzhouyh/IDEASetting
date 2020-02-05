@@ -1,0 +1,26 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="ChangesView.SetDefault">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="shift ctrl f3" />
+  </action>
+  <action id="SelectAllOccurrences" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift ctrl f2" />
+  </action>
+  <action id="StopBackgroundProcesses">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
+</keymap>
