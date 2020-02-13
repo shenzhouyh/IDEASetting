@@ -1,0 +1,6 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ChangesView.SetDefault">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+</keymap>
