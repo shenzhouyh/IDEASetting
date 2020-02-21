@@ -10,5 +10,10 @@
     <option name="isMethodCompletionsPercentageActive" value="true" />
     <option name="isMethodCompletionsPercentageSet" value="true" />
     <option name="usingTabKeyForInlineCompletions" value="true" />
+    <option name="testedFeatureFlags">
+      <set>
+        <option value="js-deep-completions" />
+      </set>
+    </option>
   </component>
 </application>
