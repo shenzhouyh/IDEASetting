@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="show byte code" description="show byte code" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\software\jdk1.8\bin\javap.exe" />
+      <option name="PARAMETERS" value="-c $FileNameWithoutExtension$.class" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$" />
+    </exec>
+  </tool>
+</toolSet>
